@@ -1,1 +1,1 @@
-# This is a Ep 02 - Inginiting the app
+# This is a Ep 02 - Igniting the app
